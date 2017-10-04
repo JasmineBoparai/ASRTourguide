@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#212121</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#212121</color>
+
+    <!-- Background color for app -->
+    <color name="black_background">#212121</color>
+
+    <color name="category_transport">#424242</color>
+    <color name="category_sights">#616161</color>
+    <color name="category_museums">#757575</color>
+    <color name="category_tours">#9E9E9E</color>
+</resources>

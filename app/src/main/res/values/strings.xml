@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AsrTourGuide</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_tours">Tours</string>
+
+
+    <!-- Strings required for the sights category -->
+    <string name="sight_HarmandirSahib_name">Harmandir Sahib</string>
+    <string name="sight_HarmandirSahib_address">Golden Temple Road, Amritsar 143006 </string>
+
+    <string name="sight_JallianwalaBagh_name">Jallianwala Bagh</string>
+    <string name="sight_JallianwalaBagh_address">Amritsar | Near golden temple, Amritsar 143001 </string>
+
+    <string name="sight_DurgianaTemple_name">Durgiana Temple</string>
+    <string name="sight_DurgianaTemple_address">Near Hathi Gate Chownk | Opposite Goal Bagh., Amritsar 143001 </string>
+
+    <string name="sight_GobindgarhFort_name">Gobindgarh Fort</string>
+    <string name="sight_GobindgarhFort_address">Old Cantt Road | Vijay Chowk, Lohgarh Chowk, Amritsar 143001</string>
+
+    <string name="sight_KhalsaCollege_name">Khalsa College</string>
+    <string name="sight_KhalsaCollege_address">Ranjeet Avenue Main Road, Amritsar 143001,</string>
+
+
+    <!-- Strings required for the transport category -->
+    <string name="transport_airport_name">Sri Guru Ram Dass Jee International Airport</string>
+    <string name="transport_airport_address">Ajnala Rd, Rajasansi, Amritsar, Punjab 143101</string>
+
+    <string name="transport_railway_name">Amritsar Junction railway station</string>
+    <string name="transport_railway_address">Guru Arjun Nagar, Amritsar, Punjab 143002</string>
+
+    <string name="transport_bus_name">Amritsar Bus Stand</string>
+    <string name="transport_bus_address">Mehar Pura, Amritsar, Punjab 143001</string>
+
+
+    <!-- Strings required for the museums category -->
+    <string name="museum_MaharajaRanjitSinghMuseum_name">Maharaja Ranjit Singh Museum</string>
+    <string name="museum_MaharajaRanjitSinghMuseum_address">Lawrence Road, Amritsar</string>
+
+    <string name="museum_ThePartitionMuseum_name">The Partition Museum</string>
+    <string name="museum_ThePartitionMuseum_address">Town Hall, Amritsar | 5 minute walk from Golden Temple, Amritsar 143001</string>
+
+    <string name="museum_CompanyBagh_name">Company Bagh</string>
+    <string name="museum_CompanyBagh_address">Mall Road, Amritsar</string>
+
+    <string name="museum_CentralSikhMuseum_name">Central Sikh Museum</string>
+    <string name="museum_CentralSikhMuseum_address">Golden Temple Rd, Amritsar 143006</string>
+
+    <!-- Strings required for the Tours category -->
+    <string name="tour_AmritsarHeritageWalk_name">Amritsar Heritage Walk</string>
+    <string name="tour_AmritsarHeritageWalk_address">TOWN HALL, Amritsar 143001</string>
+
+    <string name="tour_AmritsarWalkingTours_name">Amritsar Walking Tours</string>
+    <string name="tour_AmritsarWalkingTours_address">Amritsar 143001</string>
+
+    <string name="tour_RainbowResorts_name">Rainbow Resorts</string>
+    <string name="tour_RainbowResorts_address">16 Milestone, Attari Border Road, Amritsar 143107</string>
+
+    <string name="tour_PunjabDuckTours_name">Punjab Duck Tours</string>
+    <string name="tour_PunjabDuckTours_address">Shop No:1, Sarhadi Complex | Opposite Canal Office, Near Railway Station</string>
+
+    <string name="tour_AmritsarUrbanAdventures_name">Amritsar Urban Adventures</string>
+    <string name="tour_AmritsarUrbanAdventures_address">205/4 51st Street, Amritsar 143001</string>
+
+</resources>
