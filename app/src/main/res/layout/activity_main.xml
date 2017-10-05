@@ -16,7 +16,7 @@
             android:id="@+id/transport"
             style="@style/CategoryStyle"
             android:background="?android:attr/selectableItemBackground"
-            android:text="@string/category_transport" />
+            android:text="@string/transport" />
     </FrameLayout>
 
     <!-- Sights category -->
@@ -28,7 +28,7 @@
             android:id="@+id/sights"
             style="@style/CategoryStyle"
             android:background="?android:attr/selectableItemBackground"
-            android:text="Sights" />
+            android:text="@string/sights" />
     </FrameLayout>
 
     <!-- Museums category -->
@@ -40,7 +40,7 @@
             android:id="@+id/museums"
             style="@style/CategoryStyle"
             android:background="?android:attr/selectableItemBackground"
-            android:text="@string/category_museums" />
+            android:text="@string/museums" />
 
     </FrameLayout>
 
@@ -53,7 +53,7 @@
             android:id="@+id/tours"
             style="@style/CategoryStyle"
             android:background="?android:attr/selectableItemBackground"
-            android:text="@string/category_tours" />
+            android:text="@string/tours" />
     </FrameLayout>
 
 </LinearLayout>

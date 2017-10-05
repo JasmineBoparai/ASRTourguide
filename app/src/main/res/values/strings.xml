@@ -62,5 +62,9 @@
 
     <string name="tour_AmritsarUrbanAdventures_name">Amritsar Urban Adventures</string>
     <string name="tour_AmritsarUrbanAdventures_address">205/4 51st Street, Amritsar 143001</string>
+    <string name="sights">Sights</string>
+    <string name="transport">transport</string>
+    <string name="museums">museums</string>
+    <string name="tours">tours</string>
 
 </resources>
